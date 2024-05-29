@@ -1,3 +1,5 @@
+![logo](https://github.com/umer1999/umer1999/blob/main/github-banner.png)
+
 <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
 <h3 align="center">🌟 Project & QA Manager | Software Engineer</h3>
 
