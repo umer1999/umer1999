@@ -1,11 +1,8 @@
-![logo](https://github.com/umer1999/umer1999/blob/main/github-banner.png)
-
+<p align="center">
+  <img src="https://github.com/umer1999/umer1999/blob/main/banner.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Umer Farooq</h1>
 <h3 align="center">🌟 Project & QA Manager | Software Engineer</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umer1999&label=Profile%20views&color=0e75b6&style=flat" alt="umer1999" /> </p>
 
 - 🔭 I’m currently working on [GROUNDS App](https://apps.apple.com/pk/app/grounds-fitness-app-for-women/id6450262705)
 
